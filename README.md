@@ -1,1 +1,3 @@
-# Progect-training
+# Progect-trainin
+#my progect plan
+-inizialize project 
